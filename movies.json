@@ -1,0 +1,51 @@
+[
+    {
+        "name" : "The Dark Knight",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "language" : "English",
+        "rating" : "9.0"
+    },
+    {
+        "name" : "Forrest Gump",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ],
+        "language" : "English",
+        "rating" : "8.8"
+    },
+    {
+        "name" : "Inception",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "language" : "English",
+        "rating" : "8.8"
+    },
+    {
+        "name" : "Interstellar",
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Drama"
+        ],
+        "language" : "English",
+        "rating" : "8.6"
+    },
+    {
+        "name" : "Matrix",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "language" : "English",
+        "rating" : "8.7"
+    }
+]
